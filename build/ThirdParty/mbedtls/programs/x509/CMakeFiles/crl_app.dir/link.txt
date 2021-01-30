@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/crl_app.dir/crl_app.c.o -o crl_app  ../../library/libmbedx509.a ../../crypto/library/libmbedcrypto.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/pem2der.dir/pem2der.c.o -o pem2der  ../../crypto/library/libmbedcrypto.a 

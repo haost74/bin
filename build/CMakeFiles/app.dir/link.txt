@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/app.dir/main.cpp.o -o app  ThirdParty/libwebsockets/lib/libwebsockets.a ThirdParty/jsoncpp/src/lib_json/libjsoncpp.a ThirdParty/curl/lib/libcurl-d.a -lm -ldl -lpthread ThirdParty/mbedtls/library/libmbedtls.a ThirdParty/mbedtls/library/libmbedx509.a ThirdParty/mbedtls/crypto/library/libmbedcrypto.a /usr/lib/x86_64-linux-gnu/libz.so 

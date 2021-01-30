@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/rsa_sign.dir/rsa_sign.c.o -o rsa_sign  ../../crypto/library/libmbedcrypto.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -Wno-unused-function -O0 -g3 -rdynamic CMakeFiles/crypto.test_suite_hmac_drbg.misc.dir/test_suite_hmac_drbg.misc.c.o -o crypto.test_suite_hmac_drbg.misc  ../library/libmbedcrypto.a 

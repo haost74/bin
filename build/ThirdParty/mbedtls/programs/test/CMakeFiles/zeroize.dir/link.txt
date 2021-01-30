@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/zeroize.dir/zeroize.c.o -o zeroize  ../../crypto/library/libmbedcrypto.a 
