@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/pk_encrypt.dir/pk_encrypt.c.o -o pk_encrypt  ../../crypto/library/libmbedcrypto.a 

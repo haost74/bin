@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/benchmark.dir/benchmark.c.o -o benchmark  ../../crypto/library/libmbedcrypto.a 

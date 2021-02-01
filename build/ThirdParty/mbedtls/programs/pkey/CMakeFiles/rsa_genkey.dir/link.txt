@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/rsa_genkey.dir/rsa_genkey.c.o -o rsa_genkey  ../../crypto/library/libmbedcrypto.a 

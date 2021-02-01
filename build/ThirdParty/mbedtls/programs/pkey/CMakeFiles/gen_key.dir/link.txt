@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/gen_key.dir/gen_key.c.o -o gen_key  ../../crypto/library/libmbedcrypto.a 

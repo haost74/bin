@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/strerror.dir/strerror.c.o -o strerror  ../../crypto/library/libmbedcrypto.a 

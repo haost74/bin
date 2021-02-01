@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/pk_decrypt.dir/pk_decrypt.c.o -o pk_decrypt  ../../crypto/library/libmbedcrypto.a 

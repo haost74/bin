@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -Wno-unused-function -O0 -g3 -rdynamic CMakeFiles/crypto.test_suite_rsa.dir/test_suite_rsa.c.o -o crypto.test_suite_rsa  ../library/libmbedcrypto.a 

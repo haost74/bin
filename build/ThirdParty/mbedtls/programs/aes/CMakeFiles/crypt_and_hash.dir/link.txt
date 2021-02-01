@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/crypt_and_hash.dir/crypt_and_hash.c.o -o crypt_and_hash  ../../crypto/library/libmbedcrypto.a 

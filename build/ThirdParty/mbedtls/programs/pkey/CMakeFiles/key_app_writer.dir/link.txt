@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Wextra -Wwrite-strings -Wvla -Wlogical-op -Wshadow -O0 -g3 -rdynamic CMakeFiles/key_app_writer.dir/key_app_writer.c.o -o key_app_writer  ../../crypto/library/libmbedcrypto.a 
