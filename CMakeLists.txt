@@ -84,7 +84,7 @@ set(LIBWEBSOCKETS_INCLUDE_DIRS
 
 #add_library(${PROJECT_NAME} SHARED ${LIBRARY_SRC})
 
-add_executable(${PROJECT_NAME} main.cpp)
+add_executable(${PROJECT_NAME} main.cpp src/logger.cpp)
 target_include_directories(${PROJECT_NAME} PRIVATE "${JSONCPP_INCLUDE_DIRS}")
 
 target_include_directories(${PROJECT_NAME} PRIVATE "${LIBWEBSOCKETS_INCLUDE_DIRS}")
