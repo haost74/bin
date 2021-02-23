@@ -84,7 +84,11 @@ set(LIBWEBSOCKETS_INCLUDE_DIRS
 
 #add_library(${PROJECT_NAME} SHARED ${LIBRARY_SRC})
 
-add_executable(${PROJECT_NAME} main.cpp src/logger.cpp src/utils.cpp)
+add_executable(${PROJECT_NAME} main.cpp src/logger.cpp src/utils.cpp 
+                               src/websocket.cpp src/binance.cpp src/account.cpp
+							   src/server.cpp src/market.cpp)
+
+
 target_include_directories(${PROJECT_NAME} PRIVATE "${JSONCPP_INCLUDE_DIRS}")
 
 target_include_directories(${PROJECT_NAME} PRIVATE "${LIBWEBSOCKETS_INCLUDE_DIRS}")

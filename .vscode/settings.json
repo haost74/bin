@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "private-lib-core.h": "c",
+        "*.ipp": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "variant": "cpp",
+        "condition_variable": "cpp"
+    }
+}
